@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "How to Build a B2B Content Library: Beginner’s Guide",
+        "authorID": "322w",
+        "author": "Gilad David Maayan",
+        "avatar": "Gilad-David-Maayan.png",
+        "authorInf": "Gilad David Maayan is a technology writer who has worked with over 150 technology companies including SAP, Oracle, Zend, CheckPoint and Ixia, producing technical and thought leadership content that elucidates technical solutions for developers and IT leadership.",
+        "img": "GettyImages.jpg"
+    },
+    {
+        "id": 2,
+        "title": "8 Journalism Concepts to Drive Better Engagement",
+        "authorID": "134srew",
+        "author": "Brandon Iwamoto",
+        "avatar": "Screen-Shot.png",
+        "authorInf": "Brandon Iwamoto is currently a billing analyst at Marketo. Prior to joining the Marketo team, Brandon was an award-winning newspaper/magazine photographer and writer. He has also produced blog, social media, and other marketing-related content for the Colorado Dragon Boat Festival and The Sequencing Center, a Fort Collins, CO-based commercial genomics laboratory.",
+        "img": "Journalism.jpg"
+    },
+    {
+        "id": 3,
+        "title": "10 Reasons Every Business Should Consider Adding a Blog to Their Website",
+        "authorID": "sder34",
+        "author": "Caryl Anne Crowne",
+        "avatar": "Caryl-Anne-Crowne.jpeg",
+        "authorInf": "Caryl Anne Crowne is a contributing author and media specialist for Allegra Marketing. She regularly produces content for a variety of blogs that center around digital business solutions and ideas.",
+        "img": "GettyImage.jpg"
+    }
+]

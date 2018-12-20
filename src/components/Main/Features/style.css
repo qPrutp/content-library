@@ -1,0 +1,22 @@
+.header-features {
+    background-image: linear-gradient(-179deg,#75B3E1 0,#91E8DF 100%);
+    padding: 30px 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.features-content {
+    display: flex;
+    padding: 20px 0;
+    flex-direction: column;
+}
+
+.content-block {
+    padding: 0 30px;
+}
+
+@media only screen and (min-width: 768px) {
+    .features-content {
+        flex-direction: row;
+    }
+}

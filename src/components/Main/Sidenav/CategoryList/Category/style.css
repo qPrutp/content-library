@@ -1,0 +1,23 @@
+.category-item {
+    display: block;
+    color: #000;
+    padding: 5px 0;
+    padding-left: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.category-item:hover {
+    background-color: #555;
+    color: white;
+}
+
+.category-item:active {
+    background-color: #f0ad4e;
+    color: white;
+}
+
+.category-item img {
+    margin-right: 5px;
+}

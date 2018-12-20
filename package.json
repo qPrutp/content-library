@@ -1,0 +1,33 @@
+{
+  "name": "content-lib-scelethon",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "blueimp-md5": "^2.10.0",
+    "react": "^16.6.3",
+    "react-bootstrap": "^0.32.4",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-dom": "^16.6.3",
+    "react-google-maps": "^9.4.5",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "react-slick": "^0.23.2",
+    "react-stickynode": "^2.1.0",
+    "video-react": "^0.13.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

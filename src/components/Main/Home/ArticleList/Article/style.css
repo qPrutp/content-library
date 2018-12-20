@@ -1,0 +1,44 @@
+.card-body {
+    margin-bottom: 20px;
+    border-top: gainsboro 1px solid;
+}
+
+.card-img {
+    padding: 30px 60px 10px;
+}
+.card-img img {
+    max-width: 100%;
+}
+
+.card-body__text {
+    padding: 10px 40px 10px;
+    text-align: left;
+}
+
+.card-body__text h3 {
+    margin-top: 0;
+}
+
+.btn-card {
+    border: none;
+    background-color: white;
+}
+
+.btn-card:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.card-text img {
+    max-width: 100%;
+}
+
+.body-items {
+    padding: 0 20px;
+}
+
+@media only screen and (min-width: 768px) {
+    .card-img img {
+        max-width: 200px;
+    }
+}

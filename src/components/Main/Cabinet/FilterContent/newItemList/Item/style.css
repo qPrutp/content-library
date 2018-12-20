@@ -1,0 +1,28 @@
+.itemfor_filter {
+    border-top: gainsboro 1px solid;
+    margin-bottom: 20px;
+}
+
+.itemfor_filter h3 {
+    text-align: center;
+}
+
+.media-div {
+    width: 100%;
+}
+
+.like-block {
+    display: flex;
+    justify-content: space-around;
+}
+
+@media only screen and (min-width: 768px) {
+    .info-block {
+        display: flex;
+        margin-bottom: 20px;
+    }
+    .media-div {
+        width: 300px;
+        margin-right: 20px;
+    }
+}

@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "name": "admin",
+        "email": "admin@admin.com",
+        "endDate": null,
+        "isAdmin": true,
+        "pass": "21232f297a57a5a743894a0e4a801fc3",
+        "img": "admin.png"
+    },
+    {
+        "id": 1,
+        "name": "test1",
+        "email": "test1@test1.com",
+        "endDate": null,
+        "isAdmin": false,
+        "pass": "5a105e8b9d40e1329780d62ea2265d8a",
+        "img": "test1.png"
+    },
+    {
+        "id": 2,
+        "name": "test2",
+        "email": "test2@test2.com",
+        "endDate": "2018-01-01",
+        "isAdmin": false,
+        "pass": "ad0234829205b9033196ba818f7a872b",
+        "img": "test2.png"
+    }
+]

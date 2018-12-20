@@ -1,0 +1,117 @@
+"1"
+"B2B companies are relying more and more on content marketing to promote and sell products. In time, brands hope to build a content library full of assets they can use to inform, educate, and persuade people to act. Your content library’s digital assets—including ebooks, images, videos, podcasts, and other useful files—play such a vital role in sales that it’s not difficult to see why digital asset management solutions are so important. Beyond merely serving as an online filing cabinet, digital asset management solutions can provide valuable safety, back-up, and metadata that details the asset’s content, ownership, means of encoding, and access rights. Content libraries that have implemented a cloud-based digital asset management solution can allow access from any device at any time—even mobile devices.
+
+        Providing on-demand content to sales reps, prospects, and customers can improve engagement, answer questions, and convert faster than has ever been possible.
+        
+        Ready to build your content library? Here are some guidelines to get you started.
+        
+        Auditing Content: Determining What You Already Have
+        Auditing your current stock of content will require you to use consumption metrics to see what channels prospects are using to find your content, how frequently they’re viewing it, and the depth of their consumption. To audit the consumption of the content on your website, Google Analytics is a go-to tool. You can get pageviews, find out how long someone stays on your site, determine where your traffic is coming from, and find out which pages they’re spending the most time reading.
+        
+        Using digital asset management solutions to audit your site content serves a couple of purposes. First, it shows you the weakest points in your site’s search engine presence. That might lead you to optimize the keyword content itself, change title tags, or update the content with more timely information. Second, it can help you determine if your marketing efforts are paying off. Are people sharing your infographics? Downloading your white papers? Signing up for newsletters? If not, it may not be the content; it could be the marketing isn’t stirring up enough interest.
+        
+        If you’re going to invest in digital asset management solutions, use your findings to make changes. Consider the information you gather from your content audit to be an opportunity to create lasting and profitable change.
+        
+        Identifying What Content Your Audience Wants
+        If you’re having trouble determining what content will engage your audience, you’re not alone. The Content Marketing Institute reports that 51% of experienced B2B marketers are challenged with producing engaging content.
+        
+        So how do you get inside the head of your audience?
+        
+        Read reviews. What did they dislike about the product or service they bought to try to solve their problem last time? Address that concern in your content.
+        Pore through industry survey results. What are your prospects’ pain points? Explain how your product or service can address that challenge.
+        Use social listening tools. Hootsuite is just one example of a company that monitors what’s said about your brand and your competition with real-time social analytics to give you insights you can turn into content.
+        Find out what topics in your industry are getting shared the most. Buzzsumo is a simple tool that analyzes what content performs best within a related subject.
+        Don’t create the content you want and hope your audience will enjoy it. Create the content your audience wants to begin with. 
+        
+        Creating a Content Calendar
+        Once you have content ready, you need to schedule it for publication. Ideally, you’ll have a bank of content that you can schedule ahead of time. Working proactively is the best way to go. You never know when a coworker, who was responsible for writing a blog post, might call in sick, or you have tech problems that take your blog down.
+        
+        Pick a cadence that makes sense for your company. If you have limited staff and resources, you might only be able to post one article every other week. Don’t set an aggressive content calendar. You want something you can adhere to without stress. There are content calendar tools that can help. Look for a tool that can help you assign tasks like content creation and publishing to team members. Assign tasks early, hold your team accountable, and keep a steady cadence of content published.
+        
+        Managing Content and Media Assets
+        As you create content, you’ll have a lot of different assets to manage. You might use multiple different file types such as Word docs, .jpegs, and HTML5 files. You might use file-sharing software like Google Docs or Dropbox so multiple people can contribute to one piece of content.
+        
+        Essentially, you can have content everywhere. You have to keep it organized, and there are tools to help. Content management tools can help. If you’re working with a lot of video and images though, you’ll need something more heavy-duty. By organizing your digital assets in a central location, you can give anyone access to the pieces anytime, anywhere and from any device. Sophisticated search capabilities mean less time spent searching for assets. Managing your content and media assets with a digital asset management solution also allows you to place watermarks on images, automatically embed copyright or contact info on images, set embargo dates to control when image collections or press kits expire, or apply other effects.
+        
+        Evaluating Metrics
+        According to Marcom, 98% of top performers say that they measure marketing asset management in terms of revenue growth. It may seem like a generalization, considering that revenue can be impacted by so many factors, but consider that these same top performers report generating two to three times greater local revenue after implementing digital asset management solutions.
+        
+        Besides revenue, one solid metric appears to be whether projects are delivered on time and on budget. Decreasing your marketing spend (compared to total revenue) is also a good metric. Digital asset management solutions can use big data to identify your ROI on individual assets by looking at who created them, how long it took, how much they’re paid, and what resources were needed. For metrics that will matter to your C-suite, look at how much your content is contributing to your revenue and how much pipeline is generated.  your content is driving and how it is contributing to your pipeline."
+
+
+
+
+        "2"
+        More and more these days, I find myself searching for “The Magic X.” “The Magic X,” of course, is the fastest way for me to skip all of the useless & irritating things that pop up and get between me and the content I came here to consume. To an advertiser, this is obviously unwanted behavior. But to the content marketer, this could be exactly the behavior you should hope your reader is doing every time they come to your site. But how do you make content that the consumer actually wants to read? The answer is simple and may have been around for generations before “The Magic X” ever existed. That answer is to create the content that your reader is trying to find in the first place.
+
+Nobody knows how to produce quality content that readers actually want to read more than journalists. For years, journalists have been crafting stories—in newspapers, magazines, television, and the internet—that readers actually want to see. So what can the successful content marketer learn from journalists? It’s easy: learn how to tell a good story.
+
+As a former journalist, I’ve put together a list of eight journalism concepts that every content marketer can learn from the age-old craft of telling good stories.
+
+1. Be Relevant and Useful to Your Audience
+Business Week writes to business people. Sports Illustrated writes to sports fans. Vanity Fair writes to the vain (just kidding). Journalists write stories that are of public interest and public service. Likewise, your content should be of interest to your readers and provide them value. Serve readers first and yourself second. Readers and search engines can see right through content that is self-serving and not pertinent to your audience.
+
+2. Simplify
+Complicated words and complex phrases can confuse your reader. Keep it simple, easy-to-read, and avoid too much unnecessary jargon, without sacrificing your voice as an authority in your field. The greater the complexity, the higher you set the bar, and that means potentially alienating readers. Strike a balance between finding the lowest common denominator and dumbing down your article to the point it is no longer useful.
+
+3. Stories Can Be Told Many Different Ways
+Your readers are complex and unique individuals who consume information in different ways. Therefore the more ways you can meet those needs and preferences, the broader your audience base will be. Interesting copy, compelling photography, engaging videos, and informative podcasts are the types of content you can provide.
+
+Keep in mind though that you must use different tools for different jobs. Understand each medium’s strengths and weaknesses and aim to provide the right content on the right platform. For example, dense, long-form copy might not hold a reader’s attention for long, but that same information could be much more easily and passively digested in the form of a more casual, one-hour podcast instead. The why informs the how.
+
+4. Don’t Bury the Lead
+While marketing strategy often tries to keep the reader on the site as long as possible, don’t forget to put the reader’s needs and desires first. Burying the lead can frustrate a reader looking for you to “get to the point” and in this age of short attention spans, that could quickly lead to lost readership.
+
+Think of your story like a three-course meal. The appetizer should do just that: appetize. It shouldn’t leave them sated, nor deprive them of what they came for, but rather excite the reader and leave them wanting  more. We call this the inverted pyramid style. Start with the big picture (appetizer), fill out the details (main course), then provide background and context to understand why it’s relevant (dessert). Your job as a storyteller is to intrigue the reader. Open with an interesting premise and the important facts so that they will be compelled to read on. Your content is worthless if nobody is reading it.
+
+5. Work Your Angles
+Stories are rarely one-dimensional, and while it serves to be thorough, breaking down the many facets of your story works both to simplify, and give you more potential content without becoming repetitive. Learn to look at your story from different perspectives. Why does this matter, not only to your reader but your reader’s customers, managers, and subordinates? What will make this relevant and useful to them? Look at ways you can tell the story from an analytical angle, but ask yourself how you can flip that same story and address a more human interest angle. Your readers are humans with feelings and experiences, as well as being professionals in their respective fields. Give them something to relate to, someone to root for in one story, and data and numbers and concepts in another.
+
+6. Seek the Truth and Report It
+Accuracy is key. Be extremely careful not to misquote your sources to neatly fit words to a different context for the sake of convenience, but try and get your sources to speak directly to the topic you are addressing. Spell names correctly, give people their proper titles, and let no fact be called into doubt. You have a responsibility to represent your sources with the utmost respect and accuracy while still telling a good story. Statistics should be cited, and news stories should be linked to, leaving no room for a reader to question how you came to the conclusion that you assert.
+
+7. Be Curious
+Journalists are rarely subject matter experts in a vast majority of topics that they write about. Likewise, when you find that you lack the necessary credentials to speak about a topic, go find someone who does. Ask them all of the questions that your readers are likely to ask themselves. But get it in their own words. If there’s something you don’t know about a topic, chances are some of your readers will not know them either. This gives you an opportunity to seek out those answers and give your readers some new information, useful tips, and interesting facts. Doing this helps to expand the pool of content you can write about, without sacrificing your authority as a source of reliable information.
+
+8. Be Timely
+Journalists often report both on trends and unusual occurrences in a given subject, and both are uniquely tied to the times. An analysis of industry trends from 1998 when the internet had yet to reach ubiquity is not relevant to an industry insider of 2018. This is an increasingly important point, given the rapid turnover of popular applications and websites and the constantly changing climates and attitudes toward certain industries.
+
+Be careful about falling for the trap of being the first at the expense of being right. Being first is great, but being accurate is still the number one concern of any good journalist. This requires being deeply attuned to a certain topic or industry, but also far enough back to observe (or at least be aware of) the big picture as it shifts and evolves. It also requires that you be diligent and obsessed with ensuring that what you’re reporting is the truth.
+
+Brand Journalism Defined
+The key to being a trusted source of information is to be as impartial as possible. Sometimes that idea seems to run counter to the goals of a marketer, but if you can establish yourself as a credible & realistic storyteller, you can ensure that your readers will continue to trust you as a source of reliable content, rather than someone simply trying to push an agenda or sell a product. Transparency and a commitment to avoiding the perception of bias help to establish you as both a thought leader and a source of trustworthy information.
+
+"3"
+In the past, blogs served as fun platforms where people could write about their opinions on a variety of topics. While this still holds true today, more and more businesses have recognized the importance of blogs to their overall success. To remain competitive in the digital landscape, companies have realized more than ever before that they must provide some sort of value to their customer base. This is where a business blog can help.
+
+In fact, there are many great reasons why businesses should add a blog to their website, and the following 10 reasons are some of the best. 
+
+1. Blogs Can Establish Companies as an Authority in Their Field
+The internet has become one of the first places that consumers go to when they need information. The great thing about blogs is that they can provide the information that consumers are looking for. Furthermore, by creating various informational or instructional blogs, businesses can prove that they are authorities in their field. This, in turn, can gain the respect of current and future customers through thought leadership.
+
+2. Blogs Can Serve as Effective Customer Service Platforms
+Blogs that answer common questions customers may have about things such as products, services, refund processes, or shipping issues can serve as affordable and effective customer service platforms. Allowing replies on these types of blogs can encourage interaction and strengthen consumer trust.
+
+3. Lighthearted Blogs Encourage Sharing
+One of the goals of most businesses today is to increase their customer base, and one way to accomplish this is through the creation of lighthearted blogs. Lighthearted blogs consist of content that is entertaining and fun. When consumers enjoy these types of blogs, they often share them with their friends on social media making this a powerful word-of-mouth marketing tool.
+
+4. Blogs Can Improve Search Engine Rankings
+One of the best things about blogs is that they can help to improve a company’s search engine rankings. By adding the company’s name or brand and a few keywords or phrases to blogs, search engines will be able to recognize the content easier and quicker. Adding fresh content each week can help to keep rankings high.
+
+5. Blogs Can Direct Users to Various Website Pages
+Another terrific thing about blogs is that they can be used to direct users to various website pages of the business. This can be done through the use of hyperlinks within the blog’s content or by adding links above or below the content. Links can lead to such things as pages on the company’s website, the business’ Facebook or Twitter page, or even another relevant blog.
+
+6. Blogs Can Solve Issues with Products and Services
+At times, businesses may see declining sales related to a specific product or service. In the past, it was difficult to determine what caused declining sales. However, blogs designed to describe a product or service and ask for opinions on that product or service can quickly help to solve the mysteries of declining revenue. In this way, businesses can use blogs to develop or eliminate certain products or services.
+
+7. Blogging Is an Affordable Method of Marketing
+Perhaps the most important reason businesses should consider adding a blog to their website is because blogging is a highly affordable method of marketing. Content can be created with a minimum of funding and can be used for a variety of promotional purposes. For example, new blogs can be created to introduce new products or services, special events, new outlets, or new apps.
+
+8. Blogging Places a Face on Businesses
+In today’s competitive  marketplace, more and more consumers are looking to interact with those businesses who seem more “human.” What this means is that people want to feel like they are dealing with other persons and not just the business as a whole. Blogs that provide real communication and not preset messages can help to make businesses more human by placing a face on the companies.
+
+9. Blogs Make Fantastic Social Media Content
+With social media usage on the rise, companies need to make sure that they are consistent in providing fresh content on their social media pages. Blogs make excellent material for these pages. By adding a brief description of new blogs and a link to direct readers to the blog, businesses can keep consumers engaged.
+
+10. Blogs Can Help Businesses Grow Their Email Lists
+By including an opt-in email button on blogs, blogging can help businesses grow their email lists. Going further, when users choose to receive emails, companies can send links to new blogs directly to the users’ email addresses. This can help to keep consumers abreast of any new products or services as well.

@@ -1,0 +1,79 @@
+[
+    {
+        "id": "1131sf323",
+        "title": "Articles",
+        "description": "",
+        "child": [
+            {
+                "id": "272a2332",
+                "title": "New",
+                "description": "",
+                "img": "live-news.svg",
+                "url": "articles/new",
+                "child": []
+            },
+            {
+                "id": "12ew1212432",
+                "title": "Hot",
+                "description": "",
+                "img": "hot.svg",
+                "url": "articles/hot",
+                "child": []
+            }
+        ]
+    },
+    {
+        "id": "12wer3",
+        "title": "Video",
+        "description": "",
+        "child": [
+            {
+                "id": "2bcvb32",
+                "title": "World of Warcraft",
+                "description": "",
+                "img": "warcraft.svg",
+                "url": "video/warcraft",
+                "child": []
+            },
+            {
+                "id": "gfh1232",
+                "title": "World of Tanks",
+                "description": "",
+                "img": "tank.svg",
+                "url": "video/articles",
+                "child": []
+            },
+            {
+                "id": "df3411",
+                "title": "Cossacks",
+                "description": "",
+                "img": "cossack.svg",
+                "url": "video/cossack",
+                "child": []
+            }
+        ]
+    },
+    {
+        "id": "43213",
+        "title": "Audio",
+        "description": "",
+        "child": [
+            {
+                "id": "q65465433",
+                "title": "New",
+                "description": "",
+                "img": "new.svg",
+                "url": "audio/new",
+                "child": []
+            },
+            {
+                "id": "qwe12323442",
+                "title": "Favorite",
+                "description": "",
+                "img": "favorite.svg",
+                "url": "audio/new",
+                "child": []
+            }
+        ]
+    }
+]

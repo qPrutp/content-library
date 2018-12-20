@@ -1,0 +1,34 @@
+.sidenav {
+    background-color: #e9ebee;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    display: none;
+    flex-direction: column;
+    flex: 2;
+}
+
+.sidenav-header {
+    flex-shrink: 0;
+}
+
+.sidenav-content {
+    padding-right: 10px;
+}
+
+.sidenav-content h4 {
+    color: #616770;
+    margin: 0;
+    margin-top: 15px;
+}
+
+.show {
+    display: flex;
+}
+
+@media only screen and (min-width: 769px) {
+    .sidenav {
+        display: flex;
+        flex: 0.7;
+    }
+}

@@ -1,0 +1,7 @@
+.article-list__li {
+    list-style: none;
+}
+
+.article-list__li:last-child {
+    margin-bottom: 0;
+}

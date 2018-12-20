@@ -1,0 +1,42 @@
+.messageSend {
+    display: inline-block;
+    padding: 18px 50px;
+    background-color: #1a1a1a;
+    border: 0;
+    border-radius: 25px;
+    box-shadow: none;
+    color: #fff;
+    font-family: "Gotham SSm A", "Gotham SSm B", "Gotham", Helvetica, Arial, sans-serif;
+    font-size: 1.875rem;
+    font-weight: 500;
+    line-height: 1;
+    letter-spacing: -0.014em;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    -webkit-font-smoothing: antialiased;
+    cursor: pointer;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    transition: background-color 125ms 125ms;
+    width: 100%;
+}
+
+.messageSend:hover {
+    background-color: #eb9316;
+}
+
+@media only screen and (min-width: 768px) {
+    .messageSend {
+        width: 80%;
+    }
+    .submitCenter {
+        text-align: center;
+    }
+}
