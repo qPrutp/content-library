@@ -40,6 +40,7 @@ class Menu extends Component {
                             </li>
                             <li><a href="#/contacts">Contacts</a></li>
                             <li><a href="#/cabinet">Cabinet</a></li>
+                            <li><a href="#/gallery">Gallery</a></li>
                         </ul>
                         <ul className="nav navbar-nav navbar-right">
                             <li>

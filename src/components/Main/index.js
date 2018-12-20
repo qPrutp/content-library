@@ -11,6 +11,7 @@ import Login from './Login'
 import Signup from './Signup'
 import Logout from './Logout'
 import Cabinet from './Cabinet'
+import Gallery from './Gallery'
 import './style.css'
 
 class Main extends Component {
@@ -43,6 +44,7 @@ class Main extends Component {
                         <Route path="/features" component={Features}/>
                         <Route path="/events" component={Events}/>
                         <Route path="/allevents" component={Home}/>
+                        <Route path="/gallery" component={Gallery}/>
                         <Route path="/contacts" component={Contacts}/>
                         <Route path='/login' component={WrappedLogin} />
                         <Route path="/signup" component={Signup}/>
